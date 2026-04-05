@@ -8,7 +8,7 @@ const projects = [
     tags: ['Esports', 'Strategy', 'PUBG'],
     icon: Trophy,
     color: 'cyber-purple',
-    image: '/smalacup.jpeg',
+    image: '/public/smalacup.jpeg',
     link: '#',
     github: 'https://github.com/davininfor',
   },
