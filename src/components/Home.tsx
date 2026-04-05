@@ -30,7 +30,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-cyber-cyan/20 rounded-full blur-md group-hover/img:bg-cyber-cyan/40 transition-colors" />
               <div className="relative w-full h-full rounded-full border-2 border-cyber-cyan/50 overflow-hidden shadow-[0_0_20px_rgba(0,243,255,0.3)]">
                 <img
-                  src="/profilevin.jpeg"
+                  src="/public/profilevin.jpeg"
                   alt="Davin Pangestu Kusumo"
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
